@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://kushboogoswami.gq',
+    title: 'Khushboo Goswami | Blogger | Engineer | Optimist',
+    subtitle: 'Blogger | Agricultural Engineer | Agricultural Consultant | Entrepreneurship enthusiast',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,13 +20,10 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'KHUSHBOO GOSWAMI',
+      email: 'khushboogoswami011@gmail.com',
+      github: 'khushboo.goswami.33',
+      rss: 'khushboo_goswami_'
     }
   },
   plugins: [
