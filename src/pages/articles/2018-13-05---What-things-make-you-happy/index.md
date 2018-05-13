@@ -1,5 +1,5 @@
 ---
-title: These two theories can make you life happier.
+title: These two theories can make your life happier.
 date: "2018-05-13T23:46:37.121Z"
 layout: post
 draft: false
